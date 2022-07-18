@@ -4,7 +4,7 @@ Hi 👋 My name is Zhijia Zhang
 I'm a CS student @ University of Pennsylvania
 ---------------------------------------------
 
-* ❤️   I'm interested in ecommerce, ai/ml applications, saas, streetwear, and sneakers
+* ❤️   I'm interested in ecommerce, ai/ml applications, startups, streetwear, and sneakers
 * 🌍  I'm based in 📍Philadelphia and📍San Francisco
 * 🧠  I'm currently learning data analysis in Python
 * 🤝  I'm open to collaborating on interesting projects!
